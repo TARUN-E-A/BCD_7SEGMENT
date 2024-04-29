@@ -51,6 +51,8 @@ module segment7(
 endmodule
 ~~~
 # OUTPUT
+![image](https://github.com/TARUN-E-A/BCD_7SEGMENT/assets/163630871/6c00adb0-cb42-4619-b6dd-e239c72565d2)
+
 
 # RESULT
 Thus the BCD 7 Segment is verified succcessfully.
